@@ -32,7 +32,7 @@
 
 <p align="left">
   <a href="https://github.com/O-A-Mi/nome-do-seu-projeto-1">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=O-A-Mi&worldbuilding-tool&theme=dracula" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=O-A-Mi&repo=worldbuilding-tool&theme=dracula" />
   </a>
 </p>
 
