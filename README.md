@@ -1,50 +1,43 @@
-### Olá, eu sou Luiz Miguel!
+<img width="100%" src="./assets/profile-banner.svg" alt="Luiz Miguel — Desenvolvedor Full Stack com Java, Oracle, React e TypeScript" />
+
+<h1 align="center">Olá, eu sou Luiz Miguel 👋</h1>
+
+<p align="center">
+  Desenvolvedor Full Stack Júnior focado em soluções web organizadas, claras e úteis para o negócio.
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/luiz-miguel-ferreira-alves-9005652bb/">
+    <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=flat-square&logo=linkedin&logoColor=C9A24D" alt="LinkedIn de Luiz Miguel" />
+  </a>
+  <a href="mailto:luiz.alves.frr@gmail.com">
+    <img src="https://img.shields.io/badge/Contato-0D1117?style=flat-square&logo=gmail&logoColor=C9A24D" alt="Enviar e-mail para Luiz Miguel" />
+  </a>
+</p>
+
+## Sobre mim
+
+Atuo em formação como Desenvolvedor Full Stack, com foco em **Java, Oracle, React e TypeScript**. Gosto de transformar necessidades em interfaces claras, APIs bem estruturadas e fluxos que façam sentido para quem usa o produto.
+
+Busco oportunidade **CLT** em startups SaaS ou empresas tradicionais, em formato remoto, híbrido ou presencial na região de Taubaté, Pindamonhangaba e Tremembé.
+
+## Tecnologias
 
 <p>
-  Sou um desenvolvedor Full-Stack, estudante de Análise e Desenvolvimento de Sistemas, atualmente aprendendo Java. Nascido e criado no Brasil,
-  apaixonado por criar soluções digitais e explorar novas tecnologias. Atualmente estou focado em projetos Full-Stack.
+  <img src="https://skillicons.dev/icons?i=java,react,ts,js,nodejs,py,django,php,postgres,git&theme=dark" alt="Java, React, TypeScript, JavaScript, Node.js, Python, Django, PHP, PostgreSQL e Git" />
 </p>
 
----
+## Projeto em destaque
 
-### 🛠️ Tecnologias e Ferramentas
+### [Galsca — ficha digital para RPG](https://github.com/O-A-Mi/galsca-ficha_project)
 
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,vite,tailwind,ts,js,nodejs,py,django,java,php,postgres,git" />
-  </a>
-</p>
+Aplicação full stack para organizar fichas e informações de campanhas de RPG. O projeto reúne React, Vite, Jotai, Node.js e Supabase em uma experiência voltada a jogadores e mestres.
 
----
+> O repositório está em preparação para publicação. Antes de torná-lo público, vou concluir a revisão de documentação, dependências e configuração.
 
-### 📊 Minhas Estatísticas no GitHub
+## Atividade
 
-<p align="left">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=O-A-Mi&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=O-A-Mi&layout=compact&langs_count=8&theme=dracula"/>
-  </a>
-</p>
-
----
-
-### 🚀 Meus Principais Projetos
-
-<p align="left">
-  <a href="https://github.com/O-A-Mi/nome-do-seu-projeto-1">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=O-A-Mi&repo=worldbuilding-tool&theme=dracula" />
-  </a>
-</p>
-
----
-
-### 📫 Entre em Contato
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/luiz-miguel-ferreira-alves-9005652bb/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mailto:luiz.alves.frr@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-  </a>
+<p>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=O-A-Mi&show_icons=true&include_all_commits=true&hide_title=true&hide_border=true&bg_color=0D1117&text_color=C9D1D9&icon_color=C9A24D&ring_color=C9A24D" alt="Estatísticas do GitHub de Luiz Miguel" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=O-A-Mi&layout=compact&langs_count=6&hide_border=true&bg_color=0D1117&title_color=C9A24D&text_color=C9D1D9" alt="Linguagens mais usadas por Luiz Miguel" />
 </p>

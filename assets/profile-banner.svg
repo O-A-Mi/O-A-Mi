@@ -1,0 +1,15 @@
+<svg width="1280" height="360" viewBox="0 0 1280 360" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Luiz Miguel — Desenvolvedor Full Stack Júnior</title>
+  <desc id="desc">Banner escuro com detalhes dourados e roxos, apresentando as tecnologias Java, Oracle, React e TypeScript.</desc>
+  <rect width="1280" height="360" fill="#0D1117"/>
+  <path d="M0 292C210 222 320 383 552 292C784 201 902 261 1280 104V360H0V292Z" fill="#17131F"/>
+  <path d="M0 293C210 223 320 384 552 293C784 202 902 262 1280 105" stroke="#C9A24D" stroke-width="2" opacity=".8"/>
+  <circle cx="1085" cy="78" r="152" fill="#421C69" opacity=".32"/>
+  <circle cx="1085" cy="78" r="103" stroke="#C9A24D" stroke-width="1" opacity=".55"/>
+  <path d="M946 38L1226 318" stroke="#C9A24D" stroke-width="1" opacity=".36"/>
+  <path d="M995 14L1273 292" stroke="#C9A24D" stroke-width="1" opacity=".2"/>
+  <rect x="70" y="79" width="56" height="4" rx="2" fill="#C9A24D"/>
+  <text x="70" y="143" fill="#F0F6FC" font-family="Arial, Helvetica, sans-serif" font-size="42" font-weight="700" letter-spacing=".5">LUIZ MIGUEL</text>
+  <text x="70" y="185" fill="#C9A24D" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" letter-spacing="3">FULL STACK DEVELOPER</text>
+  <text x="70" y="244" fill="#B8C1CC" font-family="Arial, Helvetica, sans-serif" font-size="19">JAVA  •  ORACLE  •  REACT  •  TYPESCRIPT</text>
+</svg>
