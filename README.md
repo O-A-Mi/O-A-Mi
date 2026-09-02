@@ -27,17 +27,45 @@ Busco oportunidade **CLT** em startups SaaS ou empresas tradicionais, em formato
   <img src="https://skillicons.dev/icons?i=java,react,ts,js,nodejs,py,django,php,postgres,git&theme=dark" alt="Java, React, TypeScript, JavaScript, Node.js, Python, Django, PHP, PostgreSQL e Git" />
 </p>
 
-## Projeto em destaque
+## Projetos em destaque
 
-### [Galsca — ficha digital para RPG](https://github.com/O-A-Mi/galsca-ficha_project)
+Os repositórios abaixo estão em preparação para publicação. Os links serão
+adicionados assim que cada projeto estiver disponível no GitHub.
 
-Aplicação full stack para organizar fichas e informações de campanhas de RPG. O projeto reúne React, Vite, Jotai, Node.js e Supabase em uma experiência voltada a jogadores e mestres.
+### AgendaFlow — SaaS multitenant de agendamento
 
-> O repositório está em preparação para publicação. Antes de torná-lo público, vou concluir a revisão de documentação, dependências e configuração.
+Plataforma para centralizar agenda, profissionais, serviços, clientes, financeiro
+e integrações de pagamento. O projeto destaca arquitetura multitenant, regras de
+disponibilidade e reserva, React/Vite e a evolução de Django/PostgreSQL para Java
+21 com Oracle.
+
+`Java 21` · `Spring Boot` · `Oracle` · `Django REST Framework` · `React`
+
+https://github.com/O-A-Mi/agendaflow
+
+### Gestão de Comandas com IA
+
+API que combina Spring Boot e uma integração Python/Flask com Gemini para estimar
+tempo de preparo e ordenar comandas por prioridade. Possui fallback heurístico e
+testes isolados de serviços externos.
+
+`Java` · `Spring Boot` · `Python` · `Flask` · `PostgreSQL` · `IA generativa`
+
+https://github.com/O-A-Mi/gestao-comandas
+
+### O MI — Portfólio Digital
+
+Experiência visual responsiva para apresentar ilustrações e personagens, com
+conteúdo bilíngue, animações coordenadas, rolagem suave e separação explícita
+entre a licença do código e os direitos das obras.
+
+`React` · `Vite` · `Framer Motion` · `CSS Modules` · `i18n`
+
+https://github.com/O-A-Mi/personal-site
 
 ## Atividade
 
 <p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=O-A-Mi&show_icons=true&include_all_commits=true&hide_title=true&hide_border=true&bg_color=0D1117&text_color=C9D1D9&icon_color=C9A24D&ring_color=C9A24D" alt="Estatísticas do GitHub de Luiz Miguel" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=O-A-Mi&layout=compact&langs_count=6&hide_border=true&bg_color=0D1117&title_color=C9A24D&text_color=C9D1D9" alt="Linguagens mais usadas por Luiz Miguel" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=O-A-Mi&show_icons=true&include_all_commits=true&hide_title=true&hide_border=true&bg_color=0D1117&text_color=C9D1D9&icon_color=C9A24D&ring_color=C9A24D" alt="Estatísticas do GitHub de Luiz Miguel" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=O-A-Mi&layout=compact&langs_count=6&hide_border=true&bg_color=0D1117&title_color=C9A24D&text_color=C9D1D9" alt="Linguagens mais usadas por Luiz Miguel" />
 </p>
